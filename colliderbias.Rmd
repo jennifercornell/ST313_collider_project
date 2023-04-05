@@ -1,0 +1,10 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+```{r}
+library(ggdag)
+library(ggplot2)
+theme_set(theme_dag())
+```
+
